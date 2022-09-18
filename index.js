@@ -1,4 +1,5 @@
-const parth=() =>{
-  console.log("parth patil");
+let hello=() =>{
+  
+  console.log("Hello Node.js!");
 }
-parth()
+hello()
